@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akramhammam5
-- 👀 I’m interested in Cyber security field.
-- 🌱 I’m currently learning SQL, C and preparing for LPI 10-160
+- 👀 I’m interested in Cyber security.
+- 🌱 I’m currently learning SQL, C and preparing for LPI 010-160
 - 📫 How to reach me akram1905355@miuegypt.edu.eg
 
 <!---
