@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akramhammam5
 - 👀 I’m interested in Cyber security.
-- 🌱 I'm an Intermediate C prorammer and LPI linux essentials (010-160) certified.
+- 🌱 I'm an Intermediate C and Java prorammer and LPI linux essentials (010-160) certified.
 - 📫 How to reach me akramhammam59@gmail.com
 
 <!---
