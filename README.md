@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/akram-amr-hammam-086986236/](https://www.linkedin.com/in/akram-amr-hammam-086986236/)
 
-- ⚡ Fun fact **I am not on FAcebook because i hate Mark...**
+- ⚡ Fun fact **I hate Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
