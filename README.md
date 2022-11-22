@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akram Hammam</h1>
 <h3 align="center">A passionate Computer science student from Egypt.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif">
-- 🌱 I’m currently learning **THREEJS,C programming and Electronics**
+- 🌱 I’m currently learning THREEJS,C programming and Electronics
 
 - 👨‍💻 All of my projects are available at [https://github.com/akramhammam5](https://github.com/akramhammam5)
 
