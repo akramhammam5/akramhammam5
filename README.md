@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif">
 - 🌱 I’m currently learning **Python and C++ programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akramhammam5](https://github.com/akramhammam5)
 
 - 💬 Ask me about **CyberSecurity awareness and online privacy**
 
