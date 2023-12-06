@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **akramhammam59@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/akram-amr-hammam-086986236/](https://www.linkedin.com/in/akram-amr-hammam-086986236/)
-
 - ⚡ Fun fact **I love Patrick from SpongeBob**
 
 <h3 align="left">Connect with me:</h3>
