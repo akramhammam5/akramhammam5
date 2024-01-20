@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akram Hammam</h1>
 <h3 align="center">A passionate Computer science student from Egypt.</h3>
-<img align="right" alt="Coding" width="400" src="[[https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2Fce0dc3d8787b3d1ce7d50dfcda7d9676%2Ftenor.gif%3Fitemid%3D5486197&f=1&nofb=1&ipt=c813ca9e1ca8ed3584cdfff0fc0ae9080d92b9212718c1d59a6b00044174585f&ipo=images)](https://media1.tenor.com/m/v--L_KFEKoUAAAAC/sponge-bob-patrick.gif)">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/gWmgIv3ClcBsQ/giphy.gif">
 
 
 
