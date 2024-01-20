@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **akramhammam59@gmail.com**
 
-- ⚡ Fun fact **I love Patrick from SpongeBob**
+- ⚡ Fun fact **I'm Patrick from SpongeBob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
